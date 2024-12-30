@@ -1,6 +1,6 @@
 ## for backend (spring boot)
 => open in IntelliJ idea\
-change db creadential in application.properties file
+change db creadential in application.properties file\
 => username
 => password
 => and create database
@@ -10,9 +10,9 @@ change db creadential in application.properties file
 => now run app
 
 ## for frontend (React)
-=> open in vs code
-=> npm i
-=> npm run dev 
+=> open in vs code\
+=> npm i\
+=> npm run dev\ 
 
 
 then signup
