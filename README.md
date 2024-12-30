@@ -1,5 +1,5 @@
-for backend (spring boot)
-=> open in IntelliJ idea
+## for backend (spring boot)
+=> open in IntelliJ idea\
 change db creadential in application.properties file
 => username
 => password
@@ -9,7 +9,7 @@ change db creadential in application.properties file
 => give your gemini api key
 => now run app
 
-for frontend (React)
+## for frontend (React)
 => open in vs code
 => npm i
 => npm run dev 
